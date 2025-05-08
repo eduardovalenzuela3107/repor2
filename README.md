@@ -1,3 +1,1 @@
-# repor2
-hola a todos 2 repositorio
-hola
+hola a todos lp2
